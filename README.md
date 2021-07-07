@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
 <a href="https://github.com/wangxb96/github-stats">
 
 ![](https://github.com/wangxb96/wangxb96/blob/main/generated/overview.svg)
 ![](https://github.com/wangxb96/wangxb96/blob/main/generated/languages.svg)
 
 </a>
+</p>
