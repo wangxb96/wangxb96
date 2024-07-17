@@ -4,10 +4,10 @@
 
 ## About Me
 
-- 🎓 Researcher
+- 🎓 [Researcher](https://scholar.google.com/citations?user=7iJ-k-sAAAAJ&hl=en)
 - 🔬 Research interests: Machine Learning, Feature Selection, Evolutionary Algorithms, Large Language Models (LLMs)
 - 💻 Experienced in Python, MATLAB, C++, and data analysis
-- Overview of my Github
+- Overview of my Github:
 <a href="https://github.com/wangxb96">
 
 ![](https://github.com/wangxb96/wangxb96/blob/main/generated/overview.svg)
@@ -51,7 +51,7 @@ I have published papers in reputable journals such as:
 ## Connect with Me
 
 - 📫 How to reach me: kindlab at wangxubin.site
-- 🌐 [Google Scholar Profile](https://scholar.google.com/citations?user=YOUR_PROFILE_ID)
+- 🌐 [Google Scholar Profile](https://scholar.google.com/citations?user=7iJ-k-sAAAAJ&hl=en)
 
 Feel free to reach out if you have any questions about my research or collaboration ideas!
 
