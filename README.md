@@ -1,57 +1,55 @@
-#  <p align="center"> :smiley: Welocome to my page!👋 </p>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Wangxb,+AI+Researcher&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 
-👋 Hi there! I'm Wangxb, a researcher focusing on machine learning, data mining, optimization, and AI applications in science.
+# 👋 Hi there! I'm Wangxb
 
-## About Me
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7iJ-k-sAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangxb96)
 
-- 🎓 [Researcher](https://scholar.google.com/citations?user=7iJ-k-sAAAAJ&hl=en)
-- 🔬 Research interests: Machine Learning, Feature Selection, Evolutionary Algorithms, Large Language Models (LLMs)
-- 💻 Experienced in Python, MATLAB, C++, and data analysis
-- Overview of my Github:
-<a href="https://github.com/wangxb96">
+I'm a researcher passionate about advancing AI, with a focus on machine learning, data mining, and optimization.
 
-![](https://github.com/wangxb96/wangxb96/blob/main/generated/overview.svg)
-![](https://github.com/wangxb96/wangxb96/blob/main/generated/languages.svg)
+## 🚀 About Me
 
-</a>
+- 🎓 AI Researcher
+- 🔬 Interests: Machine Learning, Feature Selection, Evolutionary Algorithms, LLMs
+- 💻 Tech Stack: Python, MATLAB, C++, PyTorch, Pandas, NumPy, Scikit-learn
+- 📊 GitHub Stats:
 
-## Featured Projects
+<p align="center">
+  <img src="https://github.com/wangxb96/wangxb96/blob/main/generated/overview.svg" />
+  <img src="https://github.com/wangxb96/wangxb96/blob/main/generated/languages.svg" />
+</p>
 
-- [RAG-QA-Generator](https://github.com/wangxb96/RAG-QA-Generator): An automated tool for building and managing knowledge bases for Retrieval-Augmented Generation (RAG) systems.
-- [Awesome-EdgeAI](https://github.com/wangxb96/Awesome-EdgeAI): A curated list of resources related to AI deployment on resource-constrained edge devices.
-- [LLM-Reasoning-Hub](https://github.com/wangxb96/LLM-Reasoning-Hub): Resources related to Large Language Model reasoning.
-- [EODE](https://github.com/wangxb96/EODE): Implementation of nature-inspired computation for cancer screening.
-- [MEL](https://github.com/wangxb96/MEL): Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection.
+## 🔥 Featured Projects
 
-## Research Focus
+- [RAG-QA-Generator](https://github.com/wangxb96/RAG-QA-Generator): Automated RAG knowledge base management
+- [Awesome-EdgeAI](https://github.com/wangxb96/Awesome-EdgeAI): Curated EdgeAI resources
+- [LLM-Reasoning-Hub](https://github.com/wangxb96/LLM-Reasoning-Hub): LLM reasoning resources
+- [EODE](https://github.com/wangxb96/EODE): Nature-inspired cancer screening
+- [MEL](https://github.com/wangxb96/MEL): Multi-Task Evolutionary Learning for Feature Selection
 
-- Feature Selection and Engineering
-- Evolutionary Algorithms and Optimization
-- Machine Learning for Bioinformatics
+## 🧠 Research Focus
+
+- Feature Selection & Engineering
+- Evolutionary Algorithms & Optimization
+- ML for Bioinformatics
 - Cancer Biomarker Identification
 - Nature-inspired Computation
 - Large Language Models
 
+## 📚 Publications
 
-## Skills
-
-- Programming Languages: Python, MATLAB, C++, etc
-- Machine Learning Frameworks: PyTorch  
-- Data Analysis: Pandas, NumPy, Scikit-learn  
-- Version Control: Git
-
-## Publications
-
-I have published papers in reputable journals such as:
-- IEEE/ACM Transactions on Computational Biology and Bioinformatics
-- IEEE Transactions on Knowledge and Data Engineering
+Published in top journals including:
+- IEEE/ACM TCBB
+- IEEE TKDE
 - Expert Systems With Applications
 - Knowledge-Based Systems
 
-## Connect with Me
+## 🤝 Connect with Me
 
-- 📫 How to reach me: kindlab at wangxubin.site
-- 🌐 [Google Scholar Profile](https://scholar.google.com/citations?user=7iJ-k-sAAAAJ&hl=en)
+- 📧 Email: kindlab@wangxubin.site
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=7iJ-k-sAAAAJ&hl=en)
 
-Feel free to reach out if you have any questions about my research or collaboration ideas!
+Feel free to reach out for research discussions or collaboration ideas!
 
