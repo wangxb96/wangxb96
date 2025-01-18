@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Wangxb,+AI+Researcher&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-# 👋 Hi there! I'm Wangxb
+# 👋 Hi there! I'm wangxb96
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7iJ-k-sAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangxb96)
