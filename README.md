@@ -4,7 +4,7 @@
 
 # 👋 Hi there! I'm wangxb96
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7iJ-k-sAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=RAYX2PAAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangxb96)
 
 I'm a researcher passionate about advancing AI, with a focus on machine learning, data mining, and optimization.
