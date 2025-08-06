@@ -15,6 +15,12 @@ I'm a researcher passionate about advancing AI, with a focus on machine learning
 - 🔬 Interests: Machine Learning, Feature Selection, Evolutionary Algorithms, LLMs
 - 💻 Tech Stack: Python, MATLAB, C++, PyTorch, Pandas, NumPy, Scikit-learn
 - 📊 GitHub Stats:
+<a href="https://github.com/wangxb96">
+
+![](https://github.com/wangxb96/wangxb96/blob/main/generated/overview.svg)
+![](https://github.com/wangxb96/wangxb96/blob/main/generated/languages.svg)
+
+</a>
 
 ## 🔥 Featured Projects
 
