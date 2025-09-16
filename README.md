@@ -29,6 +29,12 @@ I'm a researcher passionate about advancing AI, with a focus on machine learning
 - [EODE](https://github.com/wangxb96/EODE): Nature-inspired cancer screening
 - [MEL](https://github.com/wangxb96/MEL): Multi-Task Evolutionary Learning for Feature Selection
 
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 ## 🧠 Research Focus
 
 - Feature Selection & Engineering
