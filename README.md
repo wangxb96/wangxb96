@@ -56,7 +56,7 @@ Published in top conferences/journals including:
 
 ## 🤝 Connect with Me
 
-- 📧 Email: wangxubin@kindlab.site
+- 📧 Email: xubin.wang @ kindlab.site
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=RAYX2PAAAAAJ&hl=en)
 
 Feel free to reach out for research discussions or collaboration ideas! 
